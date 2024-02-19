@@ -1,4 +1,11 @@
 Hello, world!  
 Hello, world!  
 Hello, world!  
+<<<<<<< Updated upstream
 Hello, world! – from remote  
+=======
+Hello, world!
+Hello, world!
+Hello, world!
+Hello, world!
+>>>>>>> Stashed changes
