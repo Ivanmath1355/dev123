@@ -13,3 +13,12 @@ def is_prime(n):
                 return "Not prime"
         else:
             return "Is prime"
+<<<<<<< Updated upstream
+=======
+
+def is_power_of_5(num):
+    return num & (num - 1) == 0 and num != 0
+
+def is_power_of_2(num):
+    return num & (num - 1) == 0 and num != 0
+>>>>>>> Stashed changes
